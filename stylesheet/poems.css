@@ -1,0 +1,21 @@
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    background-image: url('../Rumislike/papir1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 1.2em;
+    font-family: 'Alegreya SC', serif;
+}
+
+h1 {
+    margin: 70px 0;
+}
+
+pre {
+    margin-bottom: 200px;
+    font-family: 'Alegreya SC', serif;
+}
